@@ -1,0 +1,24 @@
+.footer {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.perfil {
+    display: flex;
+}
+
+.perfil img {
+    border-radius: 50%;
+    width: 80px;
+    float: left;
+    margin-right: 16px;
+}
